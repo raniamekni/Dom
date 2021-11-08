@@ -1,0 +1,62 @@
+#intro {
+  background-color:plum;
+  font-weight: bolder;
+  border: 2px solid black;
+  text-transform: capitalize;
+  color:black;
+  border-radius: 10px;
+  height: 40px;
+  text-align: center;
+}
+ *{
+   background-color: pink;
+ }
+
+ #images{
+   margin: auto;
+  width: 250px;
+  height: 250px;
+ }
+.Delete{
+  background-color: violet;
+  
+}
+ .min-btn{
+   background-color:tomato;
+ }
+ .plus-btn{
+   background-color: tomato;
+ }
+ #prix1{
+ 
+   color: red;
+   font-weight: 800;
+ }
+ #prix2{
+   font-weight: 800;
+   color: red;
+ }
+ #Total{
+   color:tomato;
+ }
+ .heart-btn{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50% , -50%);
+ }
+ .content{
+   border: 2px solid #eae2e1;
+   padding: 13px 16px;
+   border-radius: 5px;
+   display: flex;
+   cursor: pointer;
+ }
+ 
+ .like{
+   margin-left: 30px;
+   font-size: 21px;
+   font-family: 'Montserrat' , sans-serif;
+   color: grey;
+ }
+ 
